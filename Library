@@ -2168,5 +2168,5 @@ do
 	end
 end
 
-print("king was here :\)")
+print("Real King was here :\)")
 return library
